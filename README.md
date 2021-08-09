@@ -1,1 +1,3 @@
-<img src="fundrLogo.png">
+<center>
+  <h1>Fundr Philippines"</h1>
+</center>
